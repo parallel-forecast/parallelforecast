@@ -1,11 +1,10 @@
-- title: Getting Started
+- title: About
   docs:
   - home
-  - themes
-  - customization
 
-- title: Examples
+- title: Projects
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - dictionary
+  - questions
+  - resolution
+  - worldviews

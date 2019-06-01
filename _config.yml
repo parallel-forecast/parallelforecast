@@ -1,9 +1,8 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Parallel Forecast
+email: ben@parallelforecast.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Documentation website for Parallel Forecast
 lang: en-US
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
