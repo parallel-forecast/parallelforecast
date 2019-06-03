@@ -3,7 +3,7 @@ title: Parallel
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
-Parallel's goal is to build the social and technical infrastructure needed for accurate predictions on decision relevant questions in the science and technology space.
+Parallel's goal is to build the social and technical infrastructure needed for accurate predictions on decision relevant questions in the science and technology space, in particular on the future of AI technology.
 
 ----
 
