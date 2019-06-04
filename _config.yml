@@ -2,13 +2,11 @@
 title: Parallel Forecast
 email: ben@parallelforecast.com
 description: >
-  Documentation website for Parallel Forecast
+  Forecasting the future of AI
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://affectionate-bartik-9c6baf.netlify.com/" # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: "https://parallelforecast.com/" # the base hostname & protocol for your site
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
