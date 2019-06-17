@@ -77,7 +77,7 @@
 
             <ul id="sidebar" class="nav nav-stacked fixed">
                 
-                <li class="{% if item_url == page.url %}active{% endif %}"><a href="/docs/home">Parallel</a></li>                
+                <li class="{% if page.url == '/docs/home/'  %}active{% endif %}"><a href="/docs/home">Parallel</a></li>                
                 {% for section in site.data.docs %}
 
                 {% for item in section.docs %}
