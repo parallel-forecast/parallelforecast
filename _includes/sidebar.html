@@ -74,12 +74,9 @@
     <div class="row">
         <!--Nav Bar -->
         <nav class="col-xs-3 bs-docs-sidebar">
-
             <ul id="sidebar" class="nav nav-stacked fixed">
-                
                 <li class="{% if page.url == '/docs/home/'  %}active{% endif %}"><a href="/docs/home">Parallel</a></li>                
                 {% for section in site.data.docs %}
-
                 {% for item in section.docs %}
                 {% assign item_url = item | prepend:"/docs/" | append:"/" %}
                 {% assign p = site.docs | where:"url", item_url | first %}
@@ -87,16 +84,6 @@
                 </li>
                     {% endfor %}
                     {%endfor%}
-
-                <li>
- 
-                    <ul class="nav nav-stacked">
-                        <li><a href="#GroupBSub1">Sub-Group 1</a></li>
-                        <li><a href="#GroupBSub2">Sub-Group 2</a></li>
-                    </ul>
-                </li>
-                <li>
             </ul>
         </nav>
-        <!--Main Content -->
     </div>
