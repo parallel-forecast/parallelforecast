@@ -21,11 +21,11 @@ Our strategy is to build out this missing infrastructure and make it available t
 
 If you have use cases, suggestions, or just want to chat about forecasting [please reach out](mailto:hello@parallelforecast.com).
 
-## Team
+### Team
 
 - [Ben Goldhaber](http://bengoldhaber.com)
 - [Jacob Lagerros](http://jacoblagerros.wordpress.com)
 
-## Backers
+### Backers
 
 This project would not be possible without the generous support of the [Berkeley Existential Risk Initiative](http://existence.org).
