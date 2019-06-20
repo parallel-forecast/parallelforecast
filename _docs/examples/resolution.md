@@ -3,9 +3,11 @@ title: Resolution Council
 permalink: /docs/resolution/
 ---
 
-We’re forming an expert council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations like Metaculus, OpenAI, OpenPhil, AI Impacts and more. 
+We’re forming an expert council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations.
 
-[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfuF7ONVcs5TkeNQqKReehFaG0_ObiCvhGyJ5nRaihtob5qEQ/viewform)
+<div class= "text-center">
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfuF7ONVcs5TkeNQqKReehFaG0_ObiCvhGyJ5nRaihtob5qEQ/viewform" role="button">Apply Here</a>
+</div>
 
 
 ## Why is this important?
@@ -17,6 +19,8 @@ For example, suppose in 2000 you use “superhuman Othello from self-play” as 
 So if a calibrated forecaster were to face this or a similar question, considerations regarding who will bother to pursue what types of project can “screen off” the underlying technical progress questions we actually want to know. 
 
 This situation could be avoided by resolving questions with a council of experts, who could judge what feats are counterfactually plausible, and then have forecasters predict the council verdict instead of the underlying event.
+
+![resolution-diagram](/img/resolutionoracle.png)
 
 ## What do council members commit to?
 
