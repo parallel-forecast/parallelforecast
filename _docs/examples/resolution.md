@@ -5,7 +5,7 @@ permalink: /docs/resolution/
 
 We’re forming an expert council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations.
 
-## Upcoming resolutions
+## Resolution database
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrn2NW1i9xIIlqsm?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
