@@ -35,9 +35,9 @@ Members discuss and vote on question resolutions in ~quarterly online meetings, 
 
 We think this opportunity would be good if you:
 
-- Have at least ongoing PhD experience in AI
+- Have at least ongoing PhD experience in AI (or equivalent)
 
-- Are excited about contributing to infrastructure for public knowledge
+- Are excited about contributing to infrastructure for the public good
 
 - Have some familiarity with forecasting (though we will provide training for members with little prior experience)
 
