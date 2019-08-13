@@ -5,11 +5,6 @@ permalink: /docs/resolution/
 
 We’re forming an expert council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations.
 
-<div class= "text-center">
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfuF7ONVcs5TkeNQqKReehFaG0_ObiCvhGyJ5nRaihtob5qEQ/viewform" role="button">Apply Here</a>
-</div>
-
-
 ## Upcoming resolutions
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrn2NW1i9xIIlqsm?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -45,3 +40,5 @@ We think this opportunity would be good if you:
 - Are excited about contributing to infrastructure for public knowledge
 
 - Have some familiarity with forecasting (though we will provide training for members with little prior experience)
+
+If you'd like to join the council, you can apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfuF7ONVcs5TkeNQqKReehFaG0_ObiCvhGyJ5nRaihtob5qEQ/viewform).
