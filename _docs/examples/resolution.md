@@ -3,11 +3,21 @@ title: Resolution Council
 permalink: /docs/resolution/
 ---
 
-We’re forming an expert council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations.
+We’re forming a council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations.
 
 ## Resolution database
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrn2NW1i9xIIlqsm?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Council members
+
+Current members are:
+
+[Daniel Filan](http://danielfilan.com/) (Center for Human Compatible AI)
+[Chris Cundy](http://cundy.me/) (Stanford University)
+[Gavin Leech](https://www.gleech.org/about/) (University of Bristol)
+[William Saunders](https://ought.org/team) (Ought)
+
 
 ## Request a resolution
 
