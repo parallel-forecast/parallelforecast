@@ -13,7 +13,7 @@ We’re forming a council of AI researchers who will judge resolutions on techni
 
 Current members are:
 
-* [Daniel Filan](http://danielfilan.com/) (Center for Human Compatible AI)
+* [Daniel Filan](http://danielfilan.com/) (Center for Human-Compatible AI)
 * [Chris Cundy](http://cundy.me/) (Stanford University)
 * [Gavin Leech](https://www.gleech.org/about/) (University of Bristol)
 * [William Saunders](https://ought.org/team) (Ought)
