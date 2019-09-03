@@ -19,9 +19,9 @@ Below are a subset of the questions we've listed:
 
 - [[Centralisation of AGI] When 99% of jobs are automatable, will a single actor be responsible for >=50% of world output or energy consumption?](https://ai.metaculus.com/questions/167/centralisation-of-agi-when-99-of-jobs-are-automatable-will-a-single-actor-be-responsible-for-50-of-world-output-or-energy-consumption/)
 
-You can find all questions in our [question database](https://airtable.com/shr7cfXwB770bdxcO):
+You can find all questions in our [question database](https://airtable.com/shrE9dnTVMJnbaYqs):
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr7cfXwB770bdxcO?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrE9dnTVMJnbaYqs?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 We’re also setting up various initiatives to improve our ability to capture important uncertainties in clear questions, including the Resolution Dictionary and the Resolution Council.
 
