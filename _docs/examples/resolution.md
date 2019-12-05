@@ -17,6 +17,7 @@ Current members are:
 * [Chris Cundy](http://cundy.me/) (Stanford University)
 * [Gavin Leech](https://www.gleech.org/about/) (University of Bristol)
 * [William Saunders](https://ought.org/team) (Ought)
+* [Sudhanshu Kasewa](https://ori.ox.ac.uk/ori-people/sudhanshu-kasewa/) (University of Oxford)
 
 
 ## Request a resolution
