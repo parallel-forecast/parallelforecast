@@ -3,6 +3,10 @@ title: Resolution Council
 permalink: /docs/resolution/
 ---
 
+*UPDATE October 18, 2020: The AI Resolution Forecasting Council has been retired due to lack of demand for its services. We're keeping this site up for historical value.*
+
+---
+
 We’re forming a council of AI researchers who will judge resolutions on technical forecasting questions, and build an open-source set of standards available to forecasting organisations.
 
 ## Resolution database
